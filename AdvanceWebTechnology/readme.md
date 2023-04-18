@@ -1,5 +1,5 @@
 # PracticalLab Files
-![](1.gif)
+![](vijay320/PracticalLab/1.gif)
 <br>
 ![](2.gif)
 <br>
